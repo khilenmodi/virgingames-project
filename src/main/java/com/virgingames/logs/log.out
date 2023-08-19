@@ -1,0 +1,8 @@
+2023-08-18 23:08:348 INFO  HomePage :28 - Accept the cookies: [[EdgeDriver: msedge on windows (87e2abb5afdb73ea3ab9b7e12421284c)] -> xpath: //label[contains(text(),'Accept')]]
+2023-08-18 23:08:508 INFO  HomePage :33 - Clicking on the Join now: Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Join Now']'
+2023-08-18 23:08:807 INFO  HomePage :28 - Accept the cookies: [[EdgeDriver: msedge on windows (9c4d47cc0f79615946ee1cfe400cef5b)] -> xpath: //label[contains(text(),'Accept')]]
+2023-08-18 23:08:169 INFO  HomePage :33 - Clicking on the Join now: Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Join Now']'
+2023-08-19 00:08:921 INFO  HomePage :29 - Accept the cookies: [[EdgeDriver: msedge on windows (6e7dd2bcce26e1d201a16100e0db5801)] -> xpath: //label[contains(text(),'Accept')]]
+2023-08-19 00:08:661 INFO  HomePage :29 - Accept the cookies: [[EdgeDriver: msedge on windows (e251d2e70793778261f89c1aeb5b98a9)] -> xpath: //label[contains(text(),'Accept')]]
+2023-08-19 00:08:706 INFO  HomePage :29 - Accept the cookies: [[EdgeDriver: msedge on windows (ecf7508184487c997f74e7ff69902b30)] -> xpath: //label[contains(text(),'Accept')]]
+2023-08-19 01:08:72 INFO  HomePage :29 - Accept the cookies: [[EdgeDriver: msedge on windows (6e838ce69823211ab6b61d08817f0cd6)] -> xpath: //label[contains(text(),'Accept')]]
